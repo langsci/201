@@ -1,8 +1,14 @@
 {"versions": [{"versiontype": "proofreading",
-	      "title": "Perspectives on information structure in Austronesian languages",
-	      "authors": [{"name": "Sonja Riesberg"},
-			  {"name":" Asako Shiohara"},
-			  {"name":" Atsuko Utsumi"}],
-	      "publishedAt": "2018-05-17T09:38:19.000Z"}
+              "title": "Perspectives on information structure in Austronesian languages",
+              "authors": [{"name": "Sonja Riesberg"},
+                          {"name":" Asako Shiohara"},
+                          {"name":" Atsuko Utsumi"}],
+              "publishedAt": "2018-05-17T09:38:19.000Z"},
+              {"versiontype": "first_edition",
+              "title": "Perspectives on information structure in Austronesian languages",
+              "authors": [{"name": "Sonja Riesberg"},
+                          {"name":" Asako Shiohara"},
+                          {"name":" Atsuko Utsumi"}],
+              "publishedAt": "2018-08-23T09:38:19.000Z"}
 	      ]
 }
